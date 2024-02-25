@@ -63,7 +63,6 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 
 ### 6. Dashboard
 - Now making a Report by displaying all the charts and numbers analysed from the pivot tables 
-- To further interact with the data and get more insights
-        Adding Filter Panel with Accident Date Timeline and Area Slicer     
-    Adding Panel with Hyperlink 
+- Adding Filter Panel with Accident Date Timeline and Area Slicer to further interact with the data and get more insights     
+- Adding Panel with Hyperlink 
 
